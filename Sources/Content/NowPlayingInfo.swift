@@ -6,7 +6,7 @@
 import Foundation
 
 /// What a server renders when showing what's currently playing. Deliberately **not** part of
-/// `flipboard-swift-protocol` — this is never sent over the wire. A server sources this from its own
+/// `swift-protocol` — this is never sent over the wire. A server sources this from its own
 /// OS's media APIs and renders it locally; a client never constructs or transmits one.
 ///
 /// Not `Sendable`: `artwork` is a platform image (UIImage/NSImage), which isn't Sendable. This value

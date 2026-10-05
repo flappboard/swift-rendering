@@ -19,7 +19,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/squeaky-nose/flipboard-swift-protocol", from: "2.0.0"),
+        .package(url: "https://github.com/flappboard/swift-protocol", from: "2.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
@@ -27,7 +27,7 @@ let package = Package(
         .target(
             name: "FlipboardSwift",
             dependencies: [
-                .product(name: "FlipboardSwiftProtocol", package: "flipboard-swift-protocol"),
+                .product(name: "FlipboardSwiftProtocol", package: "swift-protocol"),
             ]
         ),
         .testTarget(
