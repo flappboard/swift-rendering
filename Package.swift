@@ -19,7 +19,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/flappboard/swift-protocol", from: "2.0.0"),
+        .package(url: "https://github.com/flappboard/swift-protocol", from: "3.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
