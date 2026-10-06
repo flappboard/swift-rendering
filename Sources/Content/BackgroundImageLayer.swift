@@ -1,6 +1,6 @@
 //
 //  BackgroundImageLayer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import SwiftUI

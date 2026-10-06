@@ -1,9 +1,9 @@
 //
 //  ScoreboardContentRenderer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
-import FlipboardSwiftProtocol
+import FlappboardSwiftProtocol
 
 /// Lays a scoreboard out onto the character grid: one grid-row per scoreboard row (plus a header
 /// row when it fits), columns sized evenly across the available width. Each cell's `FlipboardScoresPayload.Cell`

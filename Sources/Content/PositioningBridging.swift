@@ -1,9 +1,9 @@
 //
 //  PositioningBridging.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
-import FlipboardSwiftProtocol
+import FlappboardSwiftProtocol
 
 /// Bridges the wire-protocol alignment enums to this package's own (which predate the protocol
 /// package and are used more broadly, e.g. by `FlipGridDataSource`).

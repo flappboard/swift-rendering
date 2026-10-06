@@ -1,6 +1,6 @@
 //
 //  PlatformImage.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import SwiftUI

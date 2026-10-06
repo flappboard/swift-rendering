@@ -1,6 +1,6 @@
 //
 //  NowPlayingContentRenderer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 public enum NowPlayingContentRenderer {

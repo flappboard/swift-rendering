@@ -1,6 +1,6 @@
 //
 //  VerticalTextAlignment.swift
-//  FlipboardSwift3
+//  FlappboardSwift3
 //
 //  Created by Sushant Verma on 2/11/2025.
 //

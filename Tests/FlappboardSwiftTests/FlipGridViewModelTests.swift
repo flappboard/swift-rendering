@@ -1,7 +1,7 @@
 import Testing
 import CoreGraphics
 import Foundation
-@testable import FlipboardSwift
+@testable import FlappboardSwift
 
 @MainActor
 struct FlipGridViewModelTests {

@@ -1,6 +1,6 @@
 import Testing
-@testable import FlipboardSwift
-import FlipboardSwiftProtocol
+@testable import FlappboardSwift
+import FlappboardSwiftProtocol
 
 struct ScoreboardContentRendererTests {
     private func samplePayload() -> FlipboardScoresPayload {

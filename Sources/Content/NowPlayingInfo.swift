@@ -1,6 +1,6 @@
 //
 //  NowPlayingInfo.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import Foundation

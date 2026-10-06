@@ -1,6 +1,6 @@
 //
 //  TextContentRenderer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import Foundation

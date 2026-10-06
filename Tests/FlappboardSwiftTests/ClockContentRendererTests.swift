@@ -1,7 +1,7 @@
 import Testing
 import Foundation
-@testable import FlipboardSwift
-import FlipboardSwiftProtocol
+@testable import FlappboardSwift
+import FlappboardSwiftProtocol
 
 struct ClockContentRendererTests {
     // A fixed reference date so formatting is deterministic regardless of when the test runs.

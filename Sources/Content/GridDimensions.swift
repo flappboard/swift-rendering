@@ -1,6 +1,6 @@
 //
 //  GridDimensions.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 /// How a `FlipGridView`'s tile count is determined.

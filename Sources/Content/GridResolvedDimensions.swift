@@ -1,6 +1,6 @@
 //
 //  GridResolvedDimensions.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 /// The grid's actual current row/column count, whatever `GridDimensions` mode produced it —

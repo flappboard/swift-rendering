@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "FlipboardSwift",
+    name: "FlappboardSwift",
     platforms: [
         .iOS(.v17),
         .tvOS(.v17),
@@ -14,25 +14,25 @@ let package = Package(
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "FlipboardSwift",
-            targets: ["FlipboardSwift"]
+            name: "FlappboardSwift",
+            targets: ["FlappboardSwift"]
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/flappboard/swift-protocol", from: "3.0.0"),
+        .package(url: "https://github.com/flappboard/swift-protocol", from: "4.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "FlipboardSwift",
+            name: "FlappboardSwift",
             dependencies: [
-                .product(name: "FlipboardSwiftProtocol", package: "swift-protocol"),
+                .product(name: "FlappboardSwiftProtocol", package: "swift-protocol"),
             ]
         ),
         .testTarget(
-            name: "FlipboardSwiftTests",
-            dependencies: ["FlipboardSwift"]
+            name: "FlappboardSwiftTests",
+            dependencies: ["FlappboardSwift"]
         ),
     ]
 )

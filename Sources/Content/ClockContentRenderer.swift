@@ -1,10 +1,10 @@
 //
 //  ClockContentRenderer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import Foundation
-import FlipboardSwiftProtocol
+import FlappboardSwiftProtocol
 
 public enum ClockContentRenderer {
     public static func text(for clock: FlipboardClockPayload, referenceDate: Date = Date()) -> String {

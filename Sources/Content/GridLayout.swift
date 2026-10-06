@@ -1,6 +1,6 @@
 //
 //  GridLayout.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 import Foundation

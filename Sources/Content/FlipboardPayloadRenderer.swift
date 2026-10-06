@@ -1,9 +1,9 @@
 //
 //  FlipboardPayloadRenderer.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
-import FlipboardSwiftProtocol
+import FlappboardSwiftProtocol
 
 /// Centralizes "how to render each payload type" in one place, so every app consuming this package
 /// doesn't need its own copy of this switch statement.

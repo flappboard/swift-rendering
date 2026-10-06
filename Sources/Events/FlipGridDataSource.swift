@@ -1,6 +1,6 @@
 //
 //  FlipGridDatasource.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 //  Created by Sushant Verma on 1/11/2025.
 //

@@ -1,6 +1,6 @@
 //
 //  FlipAlphabet.swift
-//  FlipboardSwift
+//  FlappboardSwift
 //
 
 /// The ordered sequence of characters a flap tile steps through while animating from one character

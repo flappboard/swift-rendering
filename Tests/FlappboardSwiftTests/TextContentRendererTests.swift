@@ -1,5 +1,5 @@
 import Testing
-@testable import FlipboardSwift
+@testable import FlappboardSwift
 
 struct TextContentRendererTests {
     @Test
